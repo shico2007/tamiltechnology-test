@@ -1,0 +1,11 @@
+.logo img{
+    width:20%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.l11{
+    background-color: #0c111b;
+    color: white;
+    text-align: center;
+}
